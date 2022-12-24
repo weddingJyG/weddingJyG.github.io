@@ -637,10 +637,9 @@ body {
 
 }
 
+.event {
 
-
-.event {}
-
+}
 
 .event .border-area {
     margin: 0 auto;
@@ -677,7 +676,7 @@ body {
 
 .event .content p {
     font-family: 'Open Sans', sans-serif;
-    text-align: ;
+    
 }
 
 .event ul {
